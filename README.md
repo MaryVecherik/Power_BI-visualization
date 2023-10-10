@@ -122,7 +122,7 @@
 ## Семинар 9. Прочие элементы Часть 2
 ### Задачи
 1. Постройте мобильную версию отчета для анализа продаж.
-2. Скачайте данные: https://docs.google.com/spreadsheets/d/19jeF8bGy84Pn0mSMzvyrpu40WS-PwrSQG18aXnOP_08/edit
+2. Скачайте данные: https://docs.google.com/spreadsheets/d/19jeF8bGy84Pn0mSMzvyrpu40WS-PwrSQG18aXnOP_08/export?format=xlsx
 3. Сделайте анализ по ключевым факторам влияния в разрезе выполнения плана по кураторам второго уровня.
 4. Сделайте план-факт анализ по новым данным.
 
